@@ -21,9 +21,15 @@ Follow these steps:
 
 ```bash
 git clone https://github.com/SysoevDmitro/Theatre-API-Service.git
+<<<<<<< HEAD
 cd Theatre-API-Service
 docker-compose.yaml build
 docker-compose.yaml up
+=======
+cd Theatre-API-Service\theater_service
+docker-compose build
+docker-compose up
+>>>>>>> fca5d9e9860d014dc8bc092c70b54fb4d24942f9
 ```
 
 
@@ -33,7 +39,7 @@ Clone the repository and set up the environment:
 
 ```bash
 git clone https://github.com/SysoevDmitro/Theatre-API-Service.git
-cd Theatre-API-Service
+cd Theatre-API-Service\theater_service
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
