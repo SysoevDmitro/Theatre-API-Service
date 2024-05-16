@@ -22,8 +22,8 @@ Follow these steps:
 ```bash
 git clone https://github.com/SysoevDmitro/Theatre-API-Service.git
 cd Theatre-API-Service
-docker-compose build
-docker-compose up
+docker-compose.yaml build
+docker-compose.yaml up
 ```
 
 
