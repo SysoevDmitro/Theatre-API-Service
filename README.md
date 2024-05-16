@@ -21,10 +21,6 @@ Follow these steps:
 
 ```bash
 git clone https://github.com/SysoevDmitro/Theatre-API-Service.git
-cd Theatre-API-Service
-docker-compose.yaml build
-docker-compose.yaml up
-=======
 cd Theatre-API-Service\theater_service
 docker-compose build
 docker-compose up
