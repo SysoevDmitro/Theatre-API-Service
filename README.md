@@ -6,7 +6,6 @@
 ## Features
 
 - **JWT Authentication**
-- **Admin Panel**
 - **Swagger Documentation**: At `/api/doc/swagger/`.
 - **Reservations Management**
 - **Play Management**
