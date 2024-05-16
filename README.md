@@ -28,7 +28,6 @@ docker-compose.yaml up
 cd Theatre-API-Service\theater_service
 docker-compose build
 docker-compose up
->>>>>>> fca5d9e9860d014dc8bc092c70b54fb4d24942f9
 ```
 
 
